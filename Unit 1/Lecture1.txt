@@ -1,0 +1,4 @@
+AI refers to computer that can perform complex tasks normally
+There's no simple definition for AI; there is no consensus for what is considered intelligence.
+Anything new piece of computer software can be called AI.
+AI is basically just an algorithm or what was defined as one 5 years ago.

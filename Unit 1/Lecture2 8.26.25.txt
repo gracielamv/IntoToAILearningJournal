@@ -1,0 +1,25 @@
+AI Terms
+
+An algorithm is just an mathematical formula, an output of an algorithm can always be determined while an AI in non deterministic
+Bias, computers themselves are not biased but they are programmed by humans who are biased
+	AI is biased because of the people behind it
+AI needs a large amount of data
+Black box, you know the input and you know the output but not how it works
+
+You can use any language for AI, but the most "popular" is Python
+
+Context window: the maximum number of snapshots that AI can process and use
+Emergent behavior: 
+Generative AI:
+Hallucination: kind of personifying AI, inaccurate or illogical answers due to data
+LLM (Large Language Model): Works by forecasting word sequences, evolving with frequent use
+Meta prompt/ system prompt:
+Prompt Engineering: The practice of making the prompts better, guiding an AI's output
+Temperature (AI Temperature): Defines how quirky the output can be (less likely to pick a word)
+
+Tokenizer: Words make up tokens - 4 characters per token usually in open ai. 
+	Common sequences of characters found in a set of text.  
+	When using very expensive AI's you pay per token
+	Input is cheap, output is more expensive (also done in tokens)
+a very expensive autocomplete...
+AI guesses the next word
