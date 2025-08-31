@@ -1,0 +1,25 @@
+DATA TRAINING AND USAGE
+By using cloud hosting, Open AI is able to use servers (Microsoft servers specifically) for ChatGPT
+Energy:
+Everything you do on the internet leaves a carbon footprint; though it uses less energy than (for example) sending mail, emailing is about $ 1.7 cents of energy which the email providers would pay for.
+	Open AI is being subsidized for market share
+Data:
+AI is trained on massive amounts of data - public knowledge, open knowledge (which is not necessarily free), videos, and books
+	Companies such as Apple, Nvidia, and Anthropic used youtube videos to train their AI. So instead of watching a tutorial of Minecraft, the AI will provide information taken from that video even though it doesn't know what the topic is
+	* It can be argued that anything on the internet is public/free, but creators didn't sign up for having their videos be used in such a manner. Books on the other hand are a paid service
+
+As the internet becomes more and more concentrated or "poisoned" by data that AI generates, that AI will soon start training off of it and it'll be a cycle of a snake eating it's tail.
+	They're running out of data written by humans so there's nothing really new to create 
+
+BIAS
+Computer programs are not inherently biased but the people that train them or make them are. Everyone is biased in different ways
+	Ex. Twitter would crop out the faces of darker skinned people while lighter skinned people would have the images cropped around the face
+
+AI PYSCHOSIS (non-medical term)
+When individuals are in an altered mental state (or with schizophrenic tendencies) use AI for long periods of time, that AI will no longer be "grounded in reality" and start to enable/reinforce those tendencies and the individual. Going off the rails. It can then trigger reactions / worsen the already altered mental state
+
+
+
+
+
+

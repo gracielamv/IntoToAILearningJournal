@@ -1,0 +1,32 @@
+Context Window: like short term memory; after a while it forgets the initial prompt. Like how you ask it to "talk" a certain way and then it eventually stops doing it
+
+TOKEN COSTS
+Different AIs cost differently per token
+	Token costs have gone down but the amount of tokens used has gone up. Generating new tokens is more expensive than regenerating old ones.
+	Reasoning models take steps to get to their answer, prompting themselves in a way, but it uses up more tokens. Reasoning is seen as better than non reasoning models.
+	We (?) are paying for the costs for their "reasoning"
+	Fine tuning > reasoning > bigger ram > makes the AI better
+
+RENTING
+A lot of companies have/use AIs but they rent them out instead of actually making them. An AI wrapper is just the software on top of the pre-existing AI to do a specific thing for that company
+
+FREE SOFTWARE, by it's definition, means you have the freedom to run, copy, distribute, study, change, and improve the software. Actually looking at the code
+	When using code from someone else there's a license agreement that will state whether you can or cannot sell it
+Opensource/free AI means knowing what the AI sells, collects, what it's trained by, and it's able to run locally. 
+	Though most that say they are opensource are usually not - you aren't able to change/see the code (OpenAI used to be opensource until the 3.0 update).
+	There's no definitive/solid definition but it does really beg the question of what having/being free opensource (AI) means.
+
+ELECTRIC COSTS
+These metrics may or may not be true since AI companies have an incentive to lie about their electric usage.
+AI is energy hungry and this doesn't just affect the companies but also the power grid - In that MIT study ("We did the math on AI’s energy footprint. Here’s the story you haven’t heard.") OpenAI and current president Donald Trump have announced project the Stargate initiative which aims to spend $500 billion to build 10 data centers, Apple plans to spend $500 billion on manufacturing and data centers and Google expects to spend $75 billion on AI infrastructure alone (we are in hell) 
+	OpenAI's GPT-4 costed over $100 million and consumed 50 gigawatt hours of energy for it's training, thought it's the inference (not the training) that represents the increasing majority of AI energy demands
+	Estimated for AI alone to consume as much electricity annually as 22% of all US households.
+	Scientists, federally funded research facilities, activists, and energy companies argue that AI companies and data centers, companies building and deploying AI models, are too quite / say too little about their energy consumption. Since there's little say, there's little to go off of. 
+	Different models, uses (text/image/video) produce different costs.
+	Tends to use dirtier energy
+
+Companies are power hungry there's a huge demand, so they're building their own energy
+	 > "Three Mile Island nuclear reactor to restart to power Microsoft AI operations" The plant was the location of the most serious nuclear meltdown and radiation leak in US history in 1979, four decades later it is still in a decommissioning phase. 
+	It'll be brought back to life after signing a 20-year contract agreement with Microsoft, "will send an additional 835 megawatts of power to the Pennsylvania grid, create 3,400 jobs, and contribute at least $16bn to the state's economy"
+	Comprehensive safety and environmental review by the US Nuclear Regulatory Commission before it issues a permit to restart it, sometime in 2028
+
