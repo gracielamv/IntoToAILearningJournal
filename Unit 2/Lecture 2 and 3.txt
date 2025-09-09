@@ -1,0 +1,29 @@
+Lecture 2 and 3
+Work tasks use AI for productivity/tool
+	Emails, marketing, etc.
+
+"Garbage in, garbage out" - a bad prompt means a bad output
+ 
+Complex prompts (one big text) to simple prompts (step by step)
+	Simple prompts can be more expensive, if the AI gets confused by a step there's no saving it and it can be hard to steer it back / to the right direction
+
+Chain of Thought Prompting
+	Sequence of steps to solving the prompt instead of giving an answer right away - reason each step the AI takes
+	(Asking after giving a prompt instead of with the prompt) When asking an AI how it got the answer/output it will make up a reason but this makes the next prompt/output more accurate and reduces errors.
+
+Chain of Density
+	Supposed to improve summarization of text
+	By trying to summarize it in one go you can lose a lot of info so instead you just reduce > reduce > reduce
+	When doing this and you don't know what the text is, you won't know if it's summarizing the text correctly (might as well read the text instead of doing all that) or only reading the highlights
+	* During this the AI can hallucinate and make things up
+
+RAG (Retrieval-Augmented Generation)
+	Optimizing the output of AI (guessing the next words, data it hasn't been trained on)
+	Going beyond the limits of vanilla LLM (Large Language Models), being trained on data from certain organizations or to specific areas
+		Data/inner workings from organizations is disclosed/hidden for a reason (AI companies are able to get that data) companies know this and only use "private" AI
+	This is used mostly for coding
+
+AI Agents (reasoning models ish)
+	Actually able to send emails, edit texts, have access to tools (software, running code), be able to multi-step plan in the real world
+	Doesn't need human input, it's very goal driven
+	The main complaints is that you aren't able to budget the tokens; how much it "thinks"
