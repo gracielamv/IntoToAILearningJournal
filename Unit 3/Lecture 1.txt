@@ -1,0 +1,19 @@
+AI MULTIMEDIA
+	Media (images, video, audio) that is either generated or altered by AI
+
+TTS (Text-to-speech):
+	Technically started since the 18th century but electrical synthetic speech has been around since the 1930's
+	Use clear, correctly punctuated, speech to get the output you want
+Voice cloning:
+	Using an audio sample to then make it sounds like the original
+	Include tone, pacing, and consider the audience when using this
+
+Video generation:
+	The youngest/newest technology right now; can be very expensive to create
+	Text to video - (simple) prompting AI to create AI
+		Have to use cinematic terms, the style of video, again giving it a persona
+	Image to video - image used as a reference / starting point, can use a text prompt to move
+
+Photo editor: Gimp https://www.gimp.org/downloads/
+Video and audio editing: Kdenlive https://kdenlive.org/download/
+Image and video compression: Handbrake https://handbrake.fr/downloads.php
