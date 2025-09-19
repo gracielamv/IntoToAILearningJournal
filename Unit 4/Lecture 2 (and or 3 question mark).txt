@@ -1,0 +1,15 @@
+AI (especially free tools) are very lazy because companies don't want to lose money from a big output
+	AI loves fixing code by turning that part off or fully getting rid of it
+	(again) it loves making up methods; AI doesn't know what code is. It's just guessing what the next line/word will be
+
+SECURITY PRIVACY CONCERNS
+	You can't just copy and paste code into free/public AI tools. That code is not yours to show/give away. Once put into AI it's now the companies data and they can do whatever they want with that data
+	There's some companies that have a secure place (locally hosted or on cloud) to use AI
+
+Problems AI is good at fixing:
+	Syntax errors (a very weak argument as the IDE already does this)
+	Good guesser:
+		-Excels at patterns
+		-Figuring out and fixing logic errors (only from code it's seen before, if it's an entirely new project then it won't catch/fix them easily)
+	Knowledge gaps - the knowledge the person/developer has vs the knowledge they need for certain/specific issues
+	

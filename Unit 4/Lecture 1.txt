@@ -1,0 +1,23 @@
+VIBE CODING:
+	Term created by Andrej Karpathy, who created OpenAI
+	- Just vibes, forgetting the code exists and letting AI do the work
+	You're not actually learning how to code or actually being a developer, instead acting more like an AI manager
+
+Concept of 10x Developers - People that work and write code 10x times faster. Builds code that needs 10 people to manage/maintain
+	Though it doesn't matter how much code you write, if it can't be maintained then it's not good for businesses/companies
+	You can't use AI to avoid thinking and learning
+
+Perils of AI coding is speed	
+TESTING: Quickly testing different approaches and proofs of concepts
+
+Why you can't fully rely on AI to code:
+	Hallucinations
+	Makes up methods that do not exist
+	AI is only good at coding when it has the project available in its context window (what it remembers) so as the project grows it can't keep up with all the new content
+	It's always outdated - the data that it's trained on is outdated and (probably) not good in the first place.
+	^ It'll give the most complicated solution, you are not guaranteed to get useful output
+	There's no refund for the money you spend on it. AI can make mistakes and you will be billed for each one
+
+Relying on AI will make your software developer skills soften
+
+An AI bot may be cheaper than an actual dev to look over your work but that doesn't matter if your code doesn't work
