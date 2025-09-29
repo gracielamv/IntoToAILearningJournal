@@ -1,0 +1,31 @@
+What hardware is required to run AI?
+GPU
+What is hardware?
+Motherboard:
+	The most important piece of hardware, distributes communication between all the hardware components.
+CPU (Central Processing Unit):
+	Uses binary code (1's and 0's) Physical if statements. It computes and multitasks - multiple smaller tasks, arithmetic and logical problems
+PCIe Lanes:
+	(Peripheral Component Interconnect Express) Transmits and receives data from other components to the motherboard
+	Laptop has 8, desktop 16, servers have 100s
+Network Cord: Supports and provides faster networking, better wifi.
+GPU (Graphics Processing Unit):
+	Started out as only rendering graphics and video. Does all the things CPU doesn't want to, able to do linear tasks very quickly.
+Power supply: Converts power supply for computer, turns energy into heat
+RAM (Random Access Memory):
+	Most recent data is stored in here - fast and volatile storage. 
+	Short-term memory
+ECC (Error Correction Code) Memory:
+	Built in error-detecting and repair features, identifies mistakes and lowers the chances of data corruption in transmission
+	Non-ECC is cheaper, depends only on error detection, mistakes are more likely to pass through, corruption in data
+Storage: SATA (Serial AT Attachment), Hard Disk Drive (HDD), NVMe (Non-Volatile Memory Express)
+
+OS
+Debian - oldest Linux os, can run on any hardware
+
+Important commands to know in Linux:
+mkdir - makes a directory in a file system, many ways to use this
+cd - changes directory back one (or to parent directory?)
+nano - command line text editor
+
+VM (virtual machine) -> VirtualBox, https://www.virtualbox.org/wiki/Downloads

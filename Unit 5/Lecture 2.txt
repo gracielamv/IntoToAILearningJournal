@@ -1,0 +1,15 @@
+Lecture 2
+Virtualization Explained
+
+Virtualization - tools to virtualize to use it on another computers
+used to cut a big machine into smaller pieces/machines
+
+Hypervisors
+	Type 1/BM - installed directly on top of the host system, most secure, lower latency
+	Type 2/Hosted - layer of host os on top of the host system, less frequent, higher latency, extra steps
+
+Virtual Machines are softwares in "containers" that can't speak to each other (connect to the others folders/data) because they're independent and believe they're their own machine/os. Portable
+
+Lecture 2.5?
+4gb ram doesn't run a VM (smaller os size maybe)
+Read error messages thoroughly to be able to locate and know what the went wrong
