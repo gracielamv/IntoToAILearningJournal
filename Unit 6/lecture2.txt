@@ -1,5 +1,0 @@
-lecture2
-
-different ai branches
-qwen3 
-b - billions ...
