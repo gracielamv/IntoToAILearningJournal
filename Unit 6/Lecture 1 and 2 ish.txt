@@ -1,0 +1,24 @@
+Lecture 1
+Article: Chat GPT is blowing up marriages as spouses use ai to attack their partners (this is insane what!!!)
+
+Docker (Software)
+You want your apps to be able to run on different operating software
+	host machine
+	docker container
+
+Containers vs VMs what's the difference?
+	Containers are built on top of the host os - running applications
+		Can be lightweight
+	Virtual machines run operating systems
+	Both are isolated
+
+Immutable: no access to the os, can't be changed/altered
+Mutable: Full access to the os, can be changed, more flexible
+
+Containerization: AWS definition "software deployment process that bundles an application's code with all the files and libraries it needs to run on any infrastructure"
+
+Lecture 2 ish
+
+With different AI models that you can run locally there's also different branches of those AI models (for example in qwen3)
+
+The B in those LLMs stand for billion - the number of parameters contained in the AI model
