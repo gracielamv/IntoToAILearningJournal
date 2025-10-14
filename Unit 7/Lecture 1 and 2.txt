@@ -1,0 +1,21 @@
+Lecture 1
+Article: Market analyst says the AI bubble is 17x bigger than the dotcom goldrush and 4x larger than the subprime bubble that caused the 2008 crash
+	Those dotcom and subprime bubble are (were?) also known as the y2k bubbles
+	Stocks were inflated in late 90s and early 2000s because the internet/web was the this big new thing
+	Same thing happening with AI right now; everything has and uses AI
+	The people running the AI models are the ones getting a lot of money
+
+I feel like the AI bubble is just as (if not more) likely to pop as the y2k bubble (or maybe it'll just decrease, I'm not a market analyst)
+
+Node JS: https://nodejs.org/en/download
+
+Svelte: https://svelte.dev
+A JavaScript tool to build UI components, acts as a compiler
+	
+AI does more harm than good when used incorrectly or you don't know what you're doing (don't know the code or the source)
+
+Lecture 2
+Sora (OpenAI's ai video generator)
+Taylor Swift using AI for promo videos is crazy
+
+Adding on to svelte project
