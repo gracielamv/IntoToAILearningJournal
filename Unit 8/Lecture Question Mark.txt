@@ -1,0 +1,13 @@
+Lecture Question Mark
+Sora (OpenAI) videos have been circling social media - taken over feeds
+
+OpenSCAD: https://openscad.org/downloads.html
+	Code that turns into a 3d model
+	Uses it's own coding language (and uses python?)
+
+Group Project! Python Pair Vibing - using just AI for the project 
+
+Farmer Was Replaced - python coding game
+
+The mandela affect works on AI??
+	
