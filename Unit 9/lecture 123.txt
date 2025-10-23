@@ -1,0 +1,18 @@
+Army general using ChatGPT to make commanding decisions (is crazy): https://nypost.com/2025/10/16/business/us-army-general-william-hank-taylor-uses-chatgpt-to-help-make-command-decisions/
+
+Tech Stack:
+	The type of applications and software that you're building/using - either in the front end (UI, programming - HTML, CSS) or the back end (databases, web servers, OS)
+Full Stack:
+	Includes both front end and back end; working on all levels of the tech stack / projects
+
+Workflow platforms (low/no coding):
+n8n: https://n8n.io/
+	free open source
+zapier: paid service (can sign up for free)
+
+People are trying to sell their own workflows as innovative (seems like most are just using AI to create them)
+
+You can gaslight AI, kind of like the seahorse emoji thing but it fully breaks down
+- Because AI doesn't remember previous prompts/chats (?), you have to reenter what you've typed in
+
+Lab Day
